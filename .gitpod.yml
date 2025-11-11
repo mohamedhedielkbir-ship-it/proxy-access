@@ -1,0 +1,4 @@
+tasks:
+  - name: Install & Start Proxy
+    init: npm install
+    command: npm start
